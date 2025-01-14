@@ -1,7 +1,5 @@
 # Hotel Booking Demand
 
-# Hotel Booking Demand
-
 ## Dibuat oleh: Daffa Dzaky Naufal
 
 ---
