@@ -111,7 +111,7 @@ Model prediksi yang dikembangkan mampu mencapai tingkat akurasi sebesar **81.47%
 ---
 
 ## Streamlit
-Model dapat dicoba melalui [link](https://hotel-booking-demand-by-daffa.streamlit.app/Cancellation_Prediction) berikut.
+Model dapat dicoba melalui [link](https://hotel-booking-demand-by-daffa.streamlit.app/) berikut.
 
 ## Note Tambahan
 Untuk memastikan agar EDA dapat ditampilkan, download file **Hotel Booking Cancellation Prediction.ipynb** dan jalankan di Jupyter Notebook.
