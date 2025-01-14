@@ -4,8 +4,8 @@ matplotlib
 seaborn
 sweetviz
 dtale
-imbalanced-learn
-scikit-learn
+scikit-learn==1.2.2
+imbalanced-learn==0.10.1
 category_encoders
 xgboost
 hyperopt
