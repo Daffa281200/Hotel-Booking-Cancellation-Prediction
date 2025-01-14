@@ -98,7 +98,7 @@ pip install pandas numpy matplotlib seaborn sweetviz dtale scikit-learn imblearn
 ---
 
 ## Hasil dan Wawasan
-Model prediksi yang dikembangkan mampu mencapai tingkat akurasi sebesar **81.47%** (gantikan dengan hasil aktual). Wawasan utama meliputi:
+Model prediksi yang dikembangkan mampu mencapai tingkat akurasi sebesar **81.47%**. Wawasan utama meliputi:
 - **Wawasan 1:** Faktor utama yang memengaruhi pembatalan adalah deposit_type
 - **Wawasan 2:** Pelanggan dengan karakteristik tertentu memiliki probabilitas pembatalan yang lebih tinggi.
 
