@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+seaborn
+sweetviz
+dtale
+imbalanced-learn
+scikit-learn
+category_encoders
+xgboost
+hyperopt
