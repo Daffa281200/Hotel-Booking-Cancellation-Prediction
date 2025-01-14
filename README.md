@@ -79,7 +79,7 @@ Penting untuk memahami faktor-faktor yang berkontribusi terhadap pembatalan dan 
 
 ## Cara Menjalankan
 ### Prasyarat
-Pastikan Anda memiliki Python 3.8+ dan instal perpustakaan berikut:
+Pastikan Anda memiliki Python 3.12 dan instal perpustakaan berikut:
 ```bash
 pip install pandas numpy matplotlib seaborn sweetviz dtale scikit-learn imblearn category_encoders xgboost hyperopt
 ```
@@ -107,6 +107,11 @@ Model prediksi yang dikembangkan mampu mencapai tingkat akurasi sebesar **81.47%
 ## Rencana Pengembangan
 - Mengeksplorasi fitur tambahan, algoritma yang berbeda, dan resampling baru untuk meningkatkan akurasi model.
 - Menganalisis data-data yang misprediksi untuk mengidentifikasi area perbaikan model.
+
+---
+
+## Note Tambahan
+Untuk memastikan agar EDA dapat ditampilkan, download file **Hotel Booking Cancellation Prediction.ipynb** dan jalankan di Jupyter Notebook.
 
 ---
 
