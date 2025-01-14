@@ -2,8 +2,8 @@ pandas
 numpy
 matplotlib
 seaborn
-skicit-learn==1.5.2
-imbalanced-learn==0.12.3
+skicit-learn==1.4.2
+imbalanced-learn==0.13.0
 category_encoders
 xgboost
 streamlit
